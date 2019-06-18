@@ -4,3 +4,5 @@ Target tahun 2019:
 - target 3
 - target 4
 - target 5
+- target 6
+- target 7
