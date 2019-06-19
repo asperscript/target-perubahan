@@ -2,8 +2,10 @@ Rencana Konten Baru
 - rencana konten 1
   detail rencana konten 1
 - rencana konten fitur baru
-  * fitur baru vue
-  * fitur baru react
+  1. fitur angular
+  2. fitur node
+  3. fitur react
+  4. fitur vue
 - rencana konten 2
 - rencana konten 3
 - rencana konten 4
