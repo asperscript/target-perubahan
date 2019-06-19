@@ -6,6 +6,7 @@ Rencana Konten Baru
   2. fitur node
   3. fitur react
   4. fitur vue
+  5. fitur jquery
 - rencana konten 2
 - rencana konten 3
 - rencana konten 4
